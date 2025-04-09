@@ -6,8 +6,8 @@ const nextConfig: NextConfig = {
     ppr: 'incremental'
   },
   eslint: {
-    ignoreDuringBuilds: true,
-},
+    ignoreDuringBuilds: true
+  }
 };
 
 export default nextConfig;
